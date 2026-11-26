@@ -4,7 +4,15 @@
 
 - Repositorio completo (código, datos, documentación): https://github.com/Kuantoapp/kuantoapp.github.io
 - Aplicación publicada: https://kuantoapp.github.io/
-- Presentación (HTML): [presentacion/index.html](presentacion/index.html). Empieza con el vídeo de Kuanto ([presentacion/video/corto.mp4](presentacion/video/corto.mp4)). Para verla, descarga la carpeta `presentacion/` y abre `index.html` en el navegador; flechas para avanzar, `?sin-corto` en la URL para saltar el vídeo.
+- Presentación (HTML): [presentacion/index.html](presentacion/index.html), que empieza con el vídeo de Kuanto ([presentacion/video/corto.mp4](presentacion/video/corto.mp4)).
+
+## Cómo ver la presentación
+
+GitHub no abre ficheros HTML al pincharlos: muestra su código. Para verla:
+
+1. Descarga el repositorio con **Code → Download ZIP** y descomprímelo. Hace falta la carpeta `presentacion/` entera: el `index.html` solo no basta, porque usa los estilos, scripts, fuentes, imágenes y el vídeo de esa carpeta.
+2. Abre `proyectos/46/presentacion/index.html` en el navegador (Chrome, Edge o Firefox).
+3. El vídeo arranca al principio; si el navegador lo bloquea, pulsa play. Al acabar, avanza con las flechas del teclado. Para saltarte el vídeo, añade `?sin-corto` al final de la dirección.
 
 ## Qué hace
 
